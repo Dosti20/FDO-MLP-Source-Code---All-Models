@@ -1,5 +1,4 @@
-The coding is in matlab; there are six models in six differnt folders:
-
+The coding is in matlab; there are six models in six differnt folders: 
 1-FDO-MLP
 2-FDO-CMLP
 3-GWO-MLP
@@ -8,7 +7,6 @@ The coding is in matlab; there are six models in six differnt folders:
 6-MGWO-CMLP
 
 To run any model, select its folder and run the My_Main.m file.
-
 https://github.com/Dosti20/FDO-MLP-Source-Code---All-Models
 
 Cite the following articles:
